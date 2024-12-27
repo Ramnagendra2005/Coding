@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+table,th,tr,td{
+    border: 1px solid black;
+    padding :10px;
+    border-collapse: collapse;
+    font-weight: 900;
+}
+tr:nth-child(even){
+    background-color: tomato;
+}
+.a{
+    width:300px;
+}

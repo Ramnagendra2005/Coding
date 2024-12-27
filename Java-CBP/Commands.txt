@@ -1,0 +1,7 @@
+javac -cp "C:\Users\sripa\Downloads\ojdbc17.jar" StudentManagementGUI.java
+
+java -cp ".;C:\Users\sripa\Downloads\ojdbc17.jar" StudentManagementGUI
+
+
+
+
